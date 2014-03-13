@@ -10,6 +10,13 @@
 <img src="http://suck.it" name="URL" />
 <img src="http://suck.it" name="document" />
 <img src="http://suck.it" name="history" />
+<img src="http://suck.it" name="getElementById" />
+<img src="http://suck.it" name="createElement" />
+<img src="http://suck.it" name="querySelectorAll" />
+<img src="http://suck.it" name="documentElement" />
+<img src="http://suck.it" name="addEventListener" />
+<img src="http://suck.it" name="createElement" />
+<img src="http://suck.it" name="createElement" />
 <img src="http://suck.it" name="a"/><img src="http://suck.it" name="b"/><img src="http://suck.it" name="c"/><img src="http://suck.it" name="d"/><img src="http://suck.it" name="e"/><img src="http://suck.it" name="f"/><img src="http://suck.it" name="g"/><img src="http://suck.it" name="h"/><img src="http://suck.it" name="i"/><img src="http://suck.it" name="j"/><img src="http://suck.it" name="k"/><img src="http://suck.it" name="l"/><img src="http://suck.it" name="m"/><img src="http://suck.it" name="n"/><img src="http://suck.it" name="o"/><img src="http://suck.it" name="p"/><img src="http://suck.it" name="q"/><img src="http://suck.it" name="r"/><img src="http://suck.it" name="s"/><img src="http://suck.it" name="t"/><img src="http://suck.it" name="u"/><img src="http://suck.it" name="v"/><img src="http://suck.it" name="w"/><img src="http://suck.it" name="x"/><img src="http://suck.it" name="y"/><img src="http://suck.it" name="z"/>
 <img src="http://suck.it" name="$"/>
 <img src="http://suck.it" name="jQuery"/>
